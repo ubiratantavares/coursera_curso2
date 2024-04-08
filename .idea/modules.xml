@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.com.coursera.pilha/br.com.coursera.pilha.iml" filepath="$PROJECT_DIR$/br.com.coursera.pilha/br.com.coursera.pilha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/coursera_curso2.iml" filepath="$PROJECT_DIR$/.idea/coursera_curso2.iml" />
+    </modules>
+  </component>
+</project>
